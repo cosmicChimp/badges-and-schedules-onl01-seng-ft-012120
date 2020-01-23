@@ -23,7 +23,7 @@ end
 
 def printer(attendees)
   new_array = []
-  attendees.eac
+  attendees.each_line do
 end
 
 
