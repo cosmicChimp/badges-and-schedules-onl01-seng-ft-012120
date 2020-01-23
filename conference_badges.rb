@@ -15,7 +15,8 @@ end
 
 def assign_rooms(array)
   new_array = []
-  
-  
+  array.each_with_index do |ele, index|
+    new_array << 
+  end
 new array
 end
