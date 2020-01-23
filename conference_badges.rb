@@ -22,7 +22,9 @@ new_array
 end
 
 def printer(attendees)
-  puts attendees
+  batch_badge_creator(people).each do |badge|
+  binding.pry
+end
   
 end
 
