@@ -15,7 +15,7 @@ end
 
 def assign_rooms(array)
   new_array = []
-  array.
+  
   
 new array
 end
