@@ -13,4 +13,9 @@ def batch_badge_creator(people)
 new_array
 end
 
-def conference_badges(people)
+def assign_rooms(array)
+  new_array = []
+  array.
+  
+new array
+end
