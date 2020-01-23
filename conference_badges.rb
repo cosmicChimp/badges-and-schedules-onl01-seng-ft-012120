@@ -22,9 +22,8 @@ new_array
 end
 
 def printer(attendees)
-  binding.pry
-  new_array = []
-  attendees.each_line do
+  puts attendees
+  
 end
 
 
