@@ -22,5 +22,11 @@ new_array
 end
 
 def printer(attendees)
-  
+  new_array = []
+  attendees.eac
 end
+
+
+
+
+
